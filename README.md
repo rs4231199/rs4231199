@@ -1,4 +1,5 @@
 ### Hi there 👋
+##  💡 Use [tridactyl](https://github.com/tridactyl/tridactyl) firefox-addon if you don't like using mouse while browsing.
 
 <!--
 **rs4231199/rs4231199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
